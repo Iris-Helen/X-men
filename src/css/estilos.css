@@ -26,7 +26,7 @@ body::before{
 	display: flex;
 	align-items: center;
 	gap: 30px;
-    min-height: calc(100vh - 152px);
+    min-height: calc(100vh - 185px);
     justify-content: center;
 }
 
@@ -69,8 +69,8 @@ body::before{
 }
 
 .personagem-selecionado .personagem-grande{
-    width: 430px;
-    height: 430px;
+    width: 400px;
+    height: 400px;
 }
 
 .personagem-selecionado .nome-personagem{
